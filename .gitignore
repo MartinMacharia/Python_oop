@@ -1,3 +1,4 @@
 .idea
-passwords.py
-test.py
+/test.py
+/passwords.py
+/test_2.py
